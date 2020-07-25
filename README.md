@@ -1,1 +1,1 @@
-# EPAM_JSHTML
+# EPAM_JavaScript
